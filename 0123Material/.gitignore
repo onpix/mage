@@ -1,0 +1,14 @@
+__pycache__
+pretrained
+tmp*
+workspace*
+*.log
+xformers
+exp
+diff-gaussian-rasterization
+*._*
+*.DS_Store
+pretrain
+files
+slurm
+data_test/

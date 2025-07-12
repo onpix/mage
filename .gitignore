@@ -1,0 +1,6 @@
+files/
+results/
+*.pth
+*.safetensors
+*.lock
+*.onnx
