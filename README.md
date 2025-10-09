@@ -18,9 +18,9 @@ python infer_mat3d.py --workspace <your_workspace> --domain_transfer_unet_path .
 python infer_mat3d.py mat3d --workspace <your_workspace> --test_path <your_test_path> --domain_transfer_unet_path ../files/mat3d.safetensors --mv_unet_path files/0123pp.safetensors --no-no_rembg --no-pred_mv
 ```
 
-### Training Dataset
+### Download data and model
 
-Please download the dataset from [here](https://huggingface.co/datasets/onpix/mage-data/tree/main) and unzip it for your training.
+Please download the dataset and the model from [here](https://huggingface.co/datasets/onpix/mage-data/tree/main) and unzip the data for your training.
 
 ### Training
 
